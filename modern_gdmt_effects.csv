@@ -1,0 +1,5 @@
+Drug_Class,Key_Trial,Effect_Type,Relative_Risk,RR_95CI,Risk_Reduction_pct
+ARNi,PARADIGM-HF,SCD reduction,0.8,0.68-0.94,20
+SGLT2i,DAPA-HF + EMPEROR-R,CV death reduction,0.86,0.76-0.98,14
+MRA (increased use),RALES + EMPHASIS-HF,All-cause mortality,0.9,0.85-0.95,10
+Beta-blocker (increased adherence),Various,All-cause mortality,0.95,0.90-1.00,5

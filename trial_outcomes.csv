@@ -1,0 +1,4 @@
+Trial,N_patients,Follow_up_months,Control_mortality_pct,ICD_mortality_pct,Hazard_ratio,HR_95CI,RRR_pct
+MADIT-II,1232,20,19.8,14.2,0.69,0.51-0.93,31
+SCD-HeFT,2521,45.5,29.0,22.0,0.77,0.62-0.96,23
+Golwala 2017 Meta-Analysis,2970,Pooled,Variable,Variable,0.77,0.64-0.91,23
