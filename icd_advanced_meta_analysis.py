@@ -45,9 +45,9 @@ trial_data = pd.DataFrame({
     'Year': [2002, 2005, 2016],
     'N_control': [490, 847, 556],
     'N_ICD': [742, 829, 560],
-    'Deaths_control': [97, 244, 159],
-    'Deaths_ICD': [105, 182, 157],
-    'Followup_years': [1.67, 3.79, 5.6],
+    'Deaths_control': [97, 244, 131],  # CORRECTED: DANISH was 159, now 131 (verified from NEJM 2016)
+    'Deaths_ICD': [105, 182, 120],     # CORRECTED: DANISH was 157, now 120 (verified from NEJM 2016)
+    'Followup_years': [1.67, 3.79, 5.63],  # DANISH follow-up 67.6 months = 5.63 years
     'LVEF_mean': [23, 25, 25],
     'Percent_ischemic': [100, 52, 0],
     'BB_percent': [70, 69, 92],

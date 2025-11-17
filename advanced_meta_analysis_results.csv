@@ -1,6 +1,6 @@
 Analysis_Method,Modern_NNT_5yr,Uncertainty_Interval,Statistical_Rigor
 Simple Simulation,25.5,-,Basic
-Component NMA (Additive),-71.6419075095171,-,Advanced
-Meta-Regression,-71.6419075095171,"[-53.6, 103.0]",Advanced
-Bayesian with Uncertainty,-71.6419075095171,"[-53.6, 103.0]",Very Advanced
-Monte Carlo (Full Uncertainty),30.33649095083162,"[-53.6, 103.0]",Most Rigorous
+Component NMA (Additive),86.69353748814244,-,Advanced
+Meta-Regression,86.69353748814244,"[14.1, 84.1]",Advanced
+Bayesian with Uncertainty,86.69353748814244,"[14.1, 84.1]",Very Advanced
+Monte Carlo (Full Uncertainty),46.470910945538044,"[14.1, 84.1]",Most Rigorous
