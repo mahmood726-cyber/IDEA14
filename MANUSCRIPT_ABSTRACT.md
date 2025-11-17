@@ -22,7 +22,7 @@ Component network meta-analysis demonstrated that modern GDMT (95% beta-blocker 
 
 ### Conclusions
 
-ICD effectiveness for primary prevention of sudden cardiac death is substantially diminished under contemporary GDMT including ARNi and SGLT2i, with number needed to treat approximately doubling and substantial uncertainty about benefit in modern low-risk populations. Updated guidelines incorporating individualized risk stratification beyond left ventricular ejection fraction, and new randomized trials with contemporary background therapy, are urgently needed.
+ICD effectiveness for primary prevention of sudden cardiac death is substantially diminished under contemporary GDMT including ARNi and SGLT2i, with number needed to treat approximately tripling (15→47, representing 210% increase) and minimal expected benefit in modern low-risk populations. Updated guidelines incorporating individualized risk stratification beyond left ventricular ejection fraction, and new randomized trials with contemporary background therapy, are urgently needed.
 
 ---
 
@@ -93,7 +93,7 @@ Could be converted to an actual infographic using your Figure 1.
 
 **For Journal's Twitter Account:**
 
-> "New meta-analysis: ICD effectiveness for sudden death prevention approximately *doubles* number-needed-to-treat in era of modern heart failure therapy (ARNi + SGLT2i). Guidelines need updating. [link]"
+> "New meta-analysis: ICD effectiveness for sudden death prevention shows *tripling* of number-needed-to-treat in era of modern heart failure therapy (ARNi + SGLT2i). Guidelines need updating. [link]"
 
 **Extended Version (280 char):**
 
