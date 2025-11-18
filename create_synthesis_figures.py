@@ -43,7 +43,7 @@ weights = 1 / (se_log_hr**2)
 point_sizes = (weights / weights.max()) * 300 + 50
 
 # Meta-regression parameters
-beta0 = -0.947
+beta0 = -0.871
 beta1 = -0.240
 r_squared = 0.958
 
