@@ -124,8 +124,9 @@ print("Creating Figure 2: NNT Comparison...")
 fig, ax = plt.subplots(figsize=(8, 5))
 
 # NNT data (CORRECTED: DANISH NNT from actual trial = 46.0, not 87.0)
+# Modern NNT updated to 47 based on corrected 5-year baseline of 18.8%
 categories = ['SCD-HeFT\n(2000)', 'DANISH\n(2014)', 'Predictive\nInterval', 'Bayesian\nPosterior\n(Modern)']
-nnts = [15.0, 46.0, 28.6, 46.5]
+nnts = [15.0, 46.0, 28.6, 47.0]
 lower_bounds = [None, None, None, 14.1]
 upper_bounds = [None, None, None, 84.1]
 colors_nnt = ['#3498db', '#2ecc71', '#f39c12', '#e74c3c']
