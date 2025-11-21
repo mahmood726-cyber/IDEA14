@@ -1,0 +1,9 @@
+Method,Predicted_HR_Modern,NNT_5yr_Modern,Key_Finding
+1. Multivariate Meta-Regression (LASSO),0.7913350006391622,,Selected 4 key predictors via LASSO
+2. Bayesian Model Averaging,0.7912959907818905,,Best model: M4_baseline_lvef (weight: 0.74)
+3. GAM (Non-linear),0.9667458757439689,,Non-linearity test: p=nan
+4. IPD Simulation (Overall),0.9798738389939339,,Treatment-risk interaction confirmed at individual level
+5. Treatment Effect Heterogeneity (High Risk),0.8717372887320566,31.0021411567952,High-risk patients: NNT = 31
+6. Treatment Effect Heterogeneity (Low Risk),1.5161318964125794,inf,Low-risk patients: NNT = inf
+7. Quantile Regression (Median),0.9417169300099345,,Median IQR: -0.009
+8. Joint Modeling (All-cause),0.7901167089472445,,SCD prevents 51% of ICD benefit
